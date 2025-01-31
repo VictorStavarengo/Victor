@@ -1,4 +1,4 @@
-# Oi, meu nome é Victor 
+# Oi, meu nome é João Victor Stavarengo
 👨‍💼 Estudante de Análise e desenvolvimento de sistemas
 
 💻 atualmente focado em:
